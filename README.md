@@ -1,29 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Website</title>
-  <style>
-    /* Selecting elements by tag name */
-    h1 {
-      color: blue;
-      font-size: 24px;
-    }
-    
-    /* Selecting elements by class */
-    .highlight {
-      background-color: yellow;
-    }
-    
-    /* Selecting elements by ID */
-    #myButton {
-      background-color: green;
-      color: white;
-    }
-  </style>
+  <title>Hunt: Showdown Maps</title>
 </head>
 <body>
-  <h1>Welcome to My Website</h1>
-  <p class="highlight">This paragraph is highlighted.</p>
-  <button id="myButton">Click Me</button>
+  <h1>Welcome to Hunt: Showdown Maps</h1>
+  
+  <h2>Select a Map:</h2>
+  
+  <ul>
+    <li><a href="map_desalle.html">DeSalle</a></li>
+    <li><a href="map_lawsondelta.html">Lawson Delta</a></li>
+    <li><a href="map_stillwaterbayou.html">Stillwater Bayou</a></li>
+  </ul>
 </body>
 </html>
