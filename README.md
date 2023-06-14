@@ -25,6 +25,6 @@
     <a href="loadout_randomizer.html">Loadout Randomizer</a>
   </div>
   
-  <a class="discord-link" href="https://discord.gg/WC62Zk7633">Join our Discord</a>
+  <a class="discord-link" href="https://discord.gg/WC62Zk7633" target="_blank">Join our Discord</a>
 </body>
 </html>
